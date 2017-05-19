@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<faqs title="Liste der am meisten gestellten Fragen (FAQ)" toplink="false">
+
+	<part id="general">
+		<title>Allgemeines</title>
+
+		<faq id="custumizing">
+			<question>
+				Wie kann ich den Skin an meine Bedürfnisse anpassen ?
+			</question>
+			<answer>
+				<p>
+					Der Skin ist momentan nicht generisch implementiert.
+					Somit lassen sich die Resourcen (Bilder,...) nicht
+					einfach konfigurieren. Einzige Möglichkeit derzeit
+					ist, die Sourcen herunterzuladen und anzupassen.
+				</p>
+
+			</answer>
+		</faq>
+	</part>
+</faqs>

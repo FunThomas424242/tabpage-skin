@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>info.thomas-michel.projects.maven.poms</groupId>
+		<artifactId>projectpom</artifactId>
+		<version>0.25</version>
+	</parent>
+	<groupId>info.thomas-michel.projects.maven</groupId>
+	<artifactId>tabpage-skin</artifactId>
+	<version>1.24</version>
+	<packaging>jar</packaging>
+	<name>Projekt Maven Karteikarten Skin</name>
+
+	<scm>
+		<developerConnection>scm:svn:file:///G:/var/sitesvnroot/info.thomas-michel.projects.maven.tabpage-skin/tags/tabpage-skin-1.24</developerConnection>
+	</scm>
+
+	
+
+</project>

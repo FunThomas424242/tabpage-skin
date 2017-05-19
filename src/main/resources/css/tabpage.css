@@ -1,0 +1,201 @@
+div.clear{
+  clear:both;
+  visibility: hidden;
+}
+div.clear hr{
+  display: none;
+}
+
+
+div.table { display:table; border-collapse:collapse; }
+div.tr { display:table-row; }
+div.td { display:table-cell; padding:5px; }
+
+.td{
+	vertical-align : top;
+}
+
+
+div.isbn { white-space:nowrap; }
+
+
+div.buchtitel{
+    white-space : nowrap;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 15px;
+    font-weight : bold;
+    text-decoration : none; 
+    color : #ADC9D9;
+}
+
+
+.quoteText{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 16px;
+	font-weight : bold; 
+	text-decoration : none; 
+	color : #ADC9D9;
+} 
+ 
+.tabTextActive{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : bold;
+	text-decoration : none;
+	color : #FFFFFF;
+}
+
+.tabText{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : bold;
+	text-decoration : none; 
+	color : #469FDC;
+}
+
+.tabText:hover{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : bold;
+	text-decoration : none; 
+	color : #FF0000;
+}
+
+.innerText{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : normal;
+	text-decoration : none; 
+	color : #ADC9D9;
+}
+
+.innerText:hover{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : normal;
+	text-decoration : none; 
+	color : #ADC9D9;
+}
+
+
+.externLinkText{
+	background: url(../images/external.png) right center no-repeat;
+    padding-right: 15px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : bold;
+	text-decoration : none; 
+	color : #469FDC;
+}
+
+.externLinkText:hover{
+    background: url(../images/newwindow.png) right top no-repeat;
+    padding-right: 15px;	
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : bold;
+	text-decoration : none; 
+	color : #FF0000;
+}
+
+
+.linkText{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : bold;
+	text-decoration : none; 
+	color : #469FDC;
+}
+
+.linkText:hover{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 15px;
+	font-weight : bold;
+	text-decoration : none; 
+	color : #FF0000;
+}
+
+
+.inputfield {
+   background : White;
+   color : Black;
+   font : 11px Arial, Helvetica, sans-serif;
+   border-bottom-width : 1px;
+   border-left-width : 1px;
+   border-right-width : 1px;
+   border-color : Black Black Black Black;
+   border-top-width : 1px;
+   border-width : 1px;
+}
+
+.Appmenu {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	font-weight : normal;
+	color : Black;
+	text-decoration : none;
+}
+
+.topRowCol{ 
+  background-image : url(../images/top_row.gif);
+  font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size : 12px; 
+  font-weight : bold;
+  text-decoration : none; 
+  color : #ADC9D9;
+  text-align : right;
+}
+
+
+.tabLeftCol{ 
+  background-image : url(../images/tab_left.gif) ;
+}
+
+.tabMiddleCol{ 
+  background-image : url(../images/tab_middle.gif);
+}
+
+
+.tabRightCol{ 
+  background-image : url(../images/tab_right.gif);
+}
+
+.tabActiveMiddleCol{ 
+  background-image : url(../images/tab_middle.gif);
+  font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size : 15px;
+  font-weight : bold;
+  text-decoration : none; 
+  color : #FFFFFF;
+}
+
+.innerTopCol{ 
+  background-image : url(../images/inner_top.gif);
+}
+
+.innerLeftCol{ 
+  background-image : url(../images/inner_left.gif);
+}
+
+.innerRightCol{ 
+  background-image : url(../images/inner_right.gif);
+}
+
+.innerBottomCol{ 
+  background-image : url(../images/inner_bottom.gif);
+}
+
+.logo32{
+  border : none;
+  height : 16px;
+  width : 16px;
+  vertical-align : top;
+}	 
+
+.ooWriterLogo{ 
+  background-image : url(../images/logos/ooo-main-app_16.png);
+  background-position: right top;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+  border : none;
+}

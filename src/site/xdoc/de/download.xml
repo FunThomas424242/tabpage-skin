@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document>
+	<properties>
+		<author email="development@thomas-michel.info">
+			Thomas Schubert
+		</author>
+		<title>Downloadbereich</title>
+	</properties>
+	<!-- Optional HEAD element, which is copied as is into the XHTML <head> element -->
+	<head>
+		<link rel="stylesheet" href="de/style/project.css"
+			type="text/css" />
+	</head>
+	<body>
+
+		<h2>Downloadbereich</h2>
+		<p>
+        Die aktuelle Version können Sie links über das Navigationsmenü (linker Rand) herunterladen.
+        
+		</p>
+	</body>
+</document>
+
